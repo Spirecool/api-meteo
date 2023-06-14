@@ -16,4 +16,7 @@ html, body {
 #changer {
     background: rgba(178, 223, 251, .3);
     cursor: pointer;
+    padding: 5px;
+    border: 1px white solid;
+    border-radius: 8px;
 }
